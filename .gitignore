@@ -76,10 +76,10 @@ app_creds_real.py
 
 # User-specific files
 *.suo
+temp_auto_push.bat
 *.user
 *.sln.docstates
 .vs/
-.vscode/
 
 # Windows image file caches
 Thumbs.db
@@ -155,3 +155,6 @@ sdk/cosmos/azure-cosmos/test/test_config.py
 
 # temporary folder to refresh SDK with cadl
 TempTypeSpecFiles/
+.gitignore
+branch_structure.json
+temp_interactive_push.bat
